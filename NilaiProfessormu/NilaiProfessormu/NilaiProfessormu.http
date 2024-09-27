@@ -1,0 +1,6 @@
+@NilaiProfessormu_HostAddress = http://localhost:5171
+
+GET {{NilaiProfessormu_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
